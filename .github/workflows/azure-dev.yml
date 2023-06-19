@@ -6,7 +6,7 @@ on:
       - main
   pull_request:
     branches:
-      - main
+      - session01/manual
   workflow_dispatch:
 
 env:
